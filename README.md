@@ -28,4 +28,4 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SoukainaGmih&theme=redical"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=soukaina&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SoukainaGmih&icon=0&color=0)](https://visitcount.itsvg.in)
